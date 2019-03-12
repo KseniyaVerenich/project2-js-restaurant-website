@@ -1,0 +1,40 @@
+{
+    "created_at": {
+        "date": "2019-03-11 14:41:02.582578",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "menu_size": 10,
+    "menu_items": [
+        {
+            "description": "Unassuming eggplant with impartial cabbage and glazed squash"
+        },
+        {
+            "description": "Spicy scallops with aggressive pepper medley and candied asparagus"
+        },
+        {
+            "description": "Smoky turkey breast with underwhelming romaine and sunny asparagus"
+        },
+        {
+            "description": "Barbecued bison with carved cabbage and watery new potatoes"
+        },
+        {
+            "description": "Glazed salmon fillet with pan-fried cabbage and frosted snow peas"
+        },
+        {
+            "description": "Barbecued beef patty with sunny brussel sprouts and spicy eggplant"
+        },
+        {
+            "description": "Deep-fried omelet with impertinent new potatoes and canned green beans"
+        },
+        {
+            "description": "Aggressive beef patty with impertinent pumpkin and pugnacious broccoli"
+        },
+        {
+            "description": "Pan-fried ribeye with lacerated cabbage and peevish green beans"
+        },
+        {
+            "description": "Swaddled eggplant with watery snow peas and sunny squash"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+
+#egg {
+    max-width: 300px;
+    max-height: 275px;
+}
+
+
+
+body{
+    background-color:rgb(255, 248, 224);
+
+}
+
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+}
+
+#menu {
+    background-color: white;
+    
+    font-family: 'Merriweather Sans', sans-serif;
+
+
+}
+
+#web_header {
+    background-color: rgb(255, 222, 112);
+
+  
+   
+
+
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    
+
+
+}
+ 
+
+#hoo-ramen {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 10vh;
+
+}
+
+#jumbo {
+    background-color: rgb(255, 222, 112);
+    font-family: 'Permanent Marker', cursive;
+
+
+}
+
+#hours, #hours2 {
+    font-size: 3vh;
+}
+
